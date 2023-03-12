@@ -9,4 +9,6 @@ function Footer()
         </footer>
     )
 }
+
+// commment
 export default Footer;
